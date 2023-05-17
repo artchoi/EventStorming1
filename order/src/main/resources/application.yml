@@ -75,6 +75,6 @@ spring:
 
 api:
   url:
-    order: localhost:8080
+    order:8080
 
 
